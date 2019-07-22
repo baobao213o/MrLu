@@ -1,7 +1,8 @@
-package indi.dafu.mrlu
+package indi.dafu.mrlu.ui.main
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import indi.dafu.mrlu.R
 
 class MainActivity : AppCompatActivity() {
 
